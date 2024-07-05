@@ -28,3 +28,8 @@ Then run the build.py script from the tooling directory with your `txt` file as 
 e.g.:
 
 `python3 ./build.py ../src/stop-using-install-scripts.txt`
+
+## (In development / Coming soon / Potential) Features
+
+- Automatically create link to blog on main site during build.
+- Better styling on main page.
