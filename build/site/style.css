@@ -1,0 +1,9 @@
+* {
+  font-family: system-ui;
+}
+
+body {
+  max-width: calc(100vw / 3);
+  margin: auto;
+}
+
