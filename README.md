@@ -27,4 +27,4 @@ Then run the build.py script from the tooling directory with your `txt` file as 
 
 e.g.:
 
-`python3 ./build.py ../src/stop-using-install-scripts`
+`python3 ./build.py ../src/stop-using-install-scripts.txt`
