@@ -9,7 +9,7 @@ html {
 
 body {
   max-width: 700px;
-  margin: auto;
+  margin: auto 2rem;
 }
 
 footer {
@@ -20,8 +20,8 @@ footer {
 }
 
 h1 {
-  margin: 2rem;
-  font-size: 6rem;
+  margin: 2rem 0;
+  font-size: 5rem;
 }
 
 address {
