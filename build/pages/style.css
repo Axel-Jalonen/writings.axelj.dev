@@ -13,7 +13,7 @@ a:hover {
 
 body {
   padding: 5rem;
-  max-width: 1000px;
+  max-width: 700px;
   margin: auto;
 }
 
@@ -33,7 +33,7 @@ address {
 
 #first-paragraph:first-letter {
   initial-letter: 2;
-  margin-right: 2.5rem;
+  margin-right: 0.50rem;
 }
 
 p {
