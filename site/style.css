@@ -1,32 +1,8 @@
 :root {
-  font-family: monospace;
-  font-size: 20px;
+  font-family: sans-serif;
 }
 
 body {
-  max-width: calc(100vw / 3);
+  max-width: 600px;
   margin: auto;
-  margin-top: 5rem;
-}
-
-ul {
-  padding: 0;
-}
-
-li {
-  border: 2px solid black;
-  padding: 0.50rem 1rem;
-  list-style: none;
-  transition: margin-left 100ms;
-}
-
-li:hover {
-  background: rgb(240,240,240);
-  cursor: pointer;
-  margin-left: 1rem;
-}
-
-a {
-  text-decoration: none;
-  color: inherit;
 }
